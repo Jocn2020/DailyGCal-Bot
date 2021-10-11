@@ -1,0 +1,7 @@
+2021-10-03 17:17:35,303:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2021-10-03 17:17:35,303:DEBUG:discord.client: on_ready has successfully been registered as an event
+2021-10-03 17:17:35,303:DEBUG:discord.client: on_message has successfully been registered as an event
+2021-10-03 17:17:35,304:INFO:discord.client: logging in using static token
+2021-10-03 17:17:35,412:DEBUG:discord.http: GET https://discord.com/api/v7/users/@me with None has returned 401
+2021-10-03 17:17:35,412:INFO:discord.client: Cleaning up tasks.
+2021-10-03 17:17:35,413:INFO:discord.client: Closing the event loop.
