@@ -2,7 +2,6 @@ from __future__ import print_function
 import calendar
 import datetime
 from google.auth import credentials
-from pymongo.message import update
 import pytz
 from math import ceil
 from googleapiclient.discovery import build
